@@ -68,4 +68,4 @@ Or open `main.cpp` in Code::Blocks and hit Run.
 
 ## 📄 License
 
-MIT - see the [LICENSE](../../LICENSE) file in the root of the repository.
+MIT - see the [LICENSE](./LICENSE) file in the root of the repository.
