@@ -36,7 +36,7 @@ The game runs in the Windows terminal, supports two local players, validates eve
 ## 📁 Project Structure
 
 ```
-Semester-01_Tic-Tac-Toe/
+tic-tac-toe/
 ├── main.cpp        ← Full game logic in a single file
 └── README.md
 ```
